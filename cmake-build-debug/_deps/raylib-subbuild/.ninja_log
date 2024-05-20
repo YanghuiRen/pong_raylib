@@ -1,0 +1,21 @@
+# ninja log v5
+0	118	1709237940786451419	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	393d2c590746c70d
+0	118	1709237940786451419	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	393d2c590746c70d
+4472	4558	1709237945235855369	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	816c677792bd2f73
+4724	4820	1709237945498852362	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	5576e27e36191894
+122	4263	1709237944939056638	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	9a303b983692a6f6
+4653	4724	1709237945401708744	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	fc65bb119729ae6e
+122	4263	1709237944939056638	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	9a303b983692a6f6
+4263	4332	1709237945010531295	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	3611cd5e559016a1
+4333	4406	1709237945084241247	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1bba60954a37af
+4333	4406	1709237945084241247	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	1bba60954a37af
+4724	4820	1709237945498852362	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	5576e27e36191894
+4472	4558	1709237945235855369	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	816c677792bd2f73
+4406	4472	1709237945149962904	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	6f51b13b8e0c2bcc
+4558	4653	1709237945331116708	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	33e7e7ba58eb1e28
+4558	4653	1709237945331116708	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	33e7e7ba58eb1e28
+4724	4820	1709237945498852362	CMakeFiles/raylib-populate-complete	5576e27e36191894
+4263	4332	1709237945010531295	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	3611cd5e559016a1
+4406	4472	1709237945149962904	/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	6f51b13b8e0c2bcc
+4653	4724	1709237945401708744	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	fc65bb119729ae6e
+4724	4820	1709237945498852362	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	5576e27e36191894
