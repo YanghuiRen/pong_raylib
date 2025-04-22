@@ -1,3 +1,0 @@
-/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
-/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
-/Users/ren/Desktop/C++/game/pong/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
